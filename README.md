@@ -9,7 +9,7 @@ I've been learning to code for 5 years, after switching careers. I started with 
 * 🌍  I'm based in India
 * 🖥️  Our [Company](http://skavtech.mdurable.com)
 * ✉️  You can contact me at [sandeepkasturi9@gmail.com](mailto:sandeepkasturi9@gmail.com)
-* 🚀  I'm currently working on [SKAV AI](http://star-programmer.vercel.app)
+* 🚀  I'm currently working on [AutoBot AI](https://autobots.streamlit.app/)
 * 🧠  I'm learning AI
 * 🤝  I'm open to collaborating on Instagram
 * ⚡  I'm secretly Developing some AI applications which can change my career. Updates will be posted on Instagram,
