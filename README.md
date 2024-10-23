@@ -3,15 +3,15 @@
 Founder of SKAV TECH
 ---------------
 
-I've been learning AI Technologies since 2020, after switching careers. I started with HTML, but have really found a passion for AI Development and I started SKAV a NO CODE Development platform combined with AI tools and Experienced Programmers. I choose Diploma level Intelligence for my SKAV.
+I've been learning AI Technologies since 2020, after switching careers. I started with Python, but have really found a passion for AI Development and I started SKAV a NO CODE Development platform combined with AI tools and Experienced Programmers. I choose Prompt Engineering technology to level up Intelligence for my SKAV.
 
 * 🌍  I'm based in India
 * 🖥️  Our [Company](http://skavtech.wegic.app)
 * ✉️  You can contact me at [sandeepkasturi9@gmail.com](mailto:sandeepkasturi9@gmail.com)
 * 🚀  I'm currently working on [AutoBot AI](https://autobots.streamlit.app/)
-* 🧠  I'm learning AI
+* 🧠  I'm learning LLMs 
 * 🤝  I'm open to collaborating on Instagram
-* ⚡  I'm secretly Developing some AI applications which can change my career. Updates will be posted on Instagram,
+* ⚡  I'm secretly Developing some AI applications. Updates will be posted on Instagram,
 
 ### Skills
 
