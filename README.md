@@ -8,9 +8,9 @@ I've been exploring AI Technologies since 2020 after switching careers. Starting
 
 ### 🌍 About Me  
 - Based in **India**  
-- [Visit our Company Website](http://skavtech.vercel.app)  
+- [Visit our Company Website](http://skavtechs.vercel.app)  
 - ✉️ Reach me at: [sandeepkasturi9@gmail.com](mailto:sandeepkasturi9@gmail.com)  
-- 🚀 Currently working on: [AutoBot Code Editor](https://github.com/sandeepkasturi/autobot-Code-Editor/)  
+- 🚀 Currently working on: [Synk Node](https://synknode.vercel.app)  
 - 🧠 Learning: **RAG**, **Fine-Tuning Models**  
 - 🤝 Open to collaboration on **Instagram**  
 - ⚡ Developing AI applications. Updates coming soon on Instagram.
