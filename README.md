@@ -48,3 +48,4 @@ I've been exploring AI Technologies since 2020 after switching careers. Starting
 <a href="https://www.x.com/SandeepKasturi9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.threads.net/@sandeep_kasturi_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /></a>
 </p>
+<a href="https://app.daily.dev/sandeepkasturi"><img src="https://api.daily.dev/devcards/v2/TmOVc8HJDaJulEC1Cg4eh.png?type=default&r=ic3" width="356" alt="Sandeep Kasturi's Dev Card"/></a>
