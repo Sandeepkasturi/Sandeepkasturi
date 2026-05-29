@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Working System applications and DSA 
+I'm Currently Working On System applications and DSA 
 
 
 ## 🌐 Socials:
