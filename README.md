@@ -99,12 +99,7 @@ Designing and shipping enterprise-grade products end-to-end — architecture, se
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sandeepkasturi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&hide_rank=false" height="150"/>
-<img src="https://streak-stats.demolab.com?user=sandeepkasturi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkasturi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+<img src="https://streak-stats.demolab.com?user=sandeepkasturi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
 
 </div>
 
