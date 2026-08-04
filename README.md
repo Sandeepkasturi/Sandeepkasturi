@@ -111,7 +111,7 @@ Designing and shipping enterprise-grade products end-to-end — architecture, se
 <div align="center">
 
 <!-- github-snake-start -->
-<img src="https://raw.githubusercontent.com/sandeepkasturi/sandeepkasturi/output/github-snake-dark.svg" alt="github contribution snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Sandeepkasturi/Sandeepkasturi/output/github-snake-dark.svg" alt="github contribution snake animation" width="100%"/>
 <!-- github-snake-end -->
 
 </div>
