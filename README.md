@@ -108,7 +108,13 @@ Designing and shipping enterprise-grade products end-to-end — architecture, se
 
 </div>
 
-> 📌 *Add a contribution snake animation via the [`platane/snk`](https://github.com/Platane/snk) GitHub Action — it renders your commit graph as an animated snake and updates automatically on push.*
+<div align="center">
+
+<!-- github-snake-start -->
+<img src="https://raw.githubusercontent.com/sandeepkasturi/sandeepkasturi/output/github-snake-dark.svg" alt="github contribution snake animation" width="100%"/>
+<!-- github-snake-end -->
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -123,5 +129,3 @@ Open to **Founding Engineer** roles, freelance builds, and collaborations on ent
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A623,100:152238&height=100&section=footer" width="100%"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
